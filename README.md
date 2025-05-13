@@ -20,3 +20,14 @@ Hmmer:
 Cd-hit:
 * cd-hit      4.8.1
 
+
+### Table of Contents
+- [detailed commands](#detailed_command_listmd)
+- [PDB custom report](#rcsb_pdb_custom_report_20250503062943csv)
+- [performance script output file](#definitive_merged_performancetxt)
+- [python script for obtaining sequences](#get_sequencepy)
+- [uniprot cross reference python script](#get_uniprot2py)
+- [performance python script](#performancepy)
+- [sequence remover python script](#sequence_removerpy)
+
+More information about the python scripts can be found in the `detailed_command_list.md` file and in the script docstrings.
