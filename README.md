@@ -22,7 +22,7 @@ Cd-hit:
 
 
 ### Table of Contents
-- [detailed commands](#./detailed_command_list.md)
+- [detailed commands](./detailed_command_list.md)
 - [PDB custom report](#rcsb_pdb_custom_report_20250503062943.csv)
 - [performance script output file](#definitive_merged_performance.txt)
 - [python script for obtaining sequences](#get_sequence.py)
