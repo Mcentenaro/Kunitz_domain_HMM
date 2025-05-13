@@ -19,6 +19,7 @@ GNU-Core Utils:
 
 Hmmer:
 * hmmer       3.3.2
+
 Cd-hit:
 * cd-hit      4.8.1
 
