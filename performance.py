@@ -1,6 +1,16 @@
 import sys
 import math
 
+'''
+This python script computes the confusion matrix, MCC, tpr, ppv. 
+Takes as input a class file and a treshold value as argv[1] and argv[2] respectively
+A third parameter can be passed depending if performance evaluation of full-sequence,
+single domain or both is desired:
+1 --> full-sequence
+2 --> single domain
+0 or undefined --> both
+'''
+
 def get_cm(filename, threshold, pe, pr=1):  # get the confusion matrix
     cm = [[0, 0], [0, 0]]
     f = open(filename)
