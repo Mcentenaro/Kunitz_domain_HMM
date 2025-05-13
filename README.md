@@ -1,3 +1,5 @@
+![Sequence Logo](./sequence_logo.png)
+
 ## Kunitz_domain_HMM
 This repository contains the supplementary material and data associated with the work conducted for the building and testing of a profile Hidden Markov Model for annotation of Kunitz proteins.
 
