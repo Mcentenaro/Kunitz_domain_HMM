@@ -1,1 +1,21 @@
-# Kunitz_domain_HMM
+## Kunitz_domain_HMM
+In this repository is contained the supplementary material and data associated with the work conducted for the building and testing of a profile Hidden Markov Model for annotation of Kunitz proteins.
+
+### Software used
+All the commands have been executed in a Conda enviroment (Anaconda 24.9.2)
+
+Python:
+* python      3.12.9
+* biopython   1.78
+* requests    2.32.3
+* pip         25.0
+
+GNU-Core Utils:
+* AWK         5.2.1
+* sed         4.9
+* comm        0.2.2
+
+Hmmer:
+* hmmer       3.3.2
+Cd-hit:
+* cd-hit      4.8.1
