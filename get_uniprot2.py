@@ -1,8 +1,9 @@
 import requests
 from sys import argv
 
-'''This script takes as input a file containing Pdb entry IDs, and prints on the terminal
-   the corss reference to the Uniprot database
+'''
+This script takes as input a file containing Pdb entry IDs, and prints on the terminal
+the cross reference to the Uniprot database
 '''
 
 pdb_ids = []
