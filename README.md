@@ -37,5 +37,6 @@ Cd-hit:
 - [sequence remover python script](./sequence_remover.py)
 - [dataset of negative ids](./negative_proteins_ids.txt)
 - [dataset of positive ids](./positive_proteins_ids.txt)
+- [Kunitz Hidden Markov Model file](./kunitz_domain.hmm)
 
 More information about the python scripts can be found in the `detailed_command_list.md` file and in the script docstrings.
